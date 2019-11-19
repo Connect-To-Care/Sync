@@ -1,0 +1,13 @@
+{
+  "repos": [
+    {
+      "repo": "AlecDusheck/pulltesting",
+      "location": "C:\\Users\\alec\\Desktop\\sync",
+      "onPull": []
+    }
+  ],
+  "http": {
+    "port": 6969
+  },
+  "secret": "boo"
+}
